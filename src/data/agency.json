@@ -30,11 +30,6 @@
         "icon": "fa-solid fa-camera"
       },
       {
-        "id": "team",
-        "label": "Team",
-        "icon": "fa-solid fa-user"
-      },
-      {
         "id": "reviews",
         "label": "Reviews",
         "icon": "fa-solid fa-comment"

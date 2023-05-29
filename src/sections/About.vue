@@ -13,7 +13,7 @@
         </template>
 
         <div class="text-center">
-          <a href="http://localhost:5173/foxy-template/ResumeZiedBachoual.pdf" download="cv.pdf">
+          <a href="https://5173-ziedbachoual-portfolio-8wog5fb5q3i.ws-eu98.gitpod.io/my-portfolio/public/images/Resume-Zied+Bachoual.pdf" download="cv.pdf">
             <XLButton label="Download CV" icon="download-icon"></XLButton>
           </a>
         </div>
